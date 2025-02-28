@@ -1,0 +1,45 @@
+id,Province,Division,Police Station,Contact,Latitude,Longitude
+0,Western Province,Colombo Central Police Division,Pettah,011-2323677,6.9365649,79.8501408
+1,Western Province,Colombo North Police Division,Colombo Harbour,011-2328903,6.941589644225841,79.84365861794434
+2,Western Province,Colombo South Police Division,Kollupitiya,011-2320131,6.914641714935394,79.85006723940427
+3,Western Province,Nugegoda Police Division,Mirihana,011-2854853,6.8743483,79.9020231
+4,Western Province,Mount Lavinia Police Division,Mount Lavinia,011-2729622,6.8254677,79.8698326
+5,Western Province,Kelaniya Police Division,Peliyagoda,011-2910608,6.9555033,79.8859993
+6,Western Province,Gampaha Police Division,Gampaha,033-2222226,7.091988049999999,79.99473470570706
+7,Western Province,Negombo Police Division,Negombo,031-2224289,7.2111063,79.8353689
+8,Western Province,Panadura Police Division,Panadura South,038-2232576,6.721192814325807,79.9081788756435
+9,Western Province,Kalutara Police Division,Kalutara South,034-2222226,6.585242454535208,79.96196617988177
+10,Central Province,Kandy Police Division,Kandy,081-2222226,7.29282525,80.63369191772296
+11,Central Province,Gampola Police Division,Gampola,081-2352319,7.162945473892219,80.57218018167994
+12,Central Province,Theldeniya Police Division,Theldeniya,081-2375719,7.3103509,80.7637281
+13,Central Province,Matale Police Division,Matale,066-2222226,7.4626336,80.6262053
+14,Central Province,Nuwaraeliya Police Division,Nuwaraeliya,052-2222226,6.97428091815123,80.76863591056845
+15,Central Province,Hatton Police Division,Hatton,051-2222520,6.8939564,80.5987134
+16,Southern Province,Matara Police Division,Matara,041-2222727,5.948033810068786,80.54808014707875
+17,Southern Province,Galle Police Division,Galle,091-2234962,6.032956526462334,80.21829881427014
+18,Southern Province,Elpitiya Police Division,Elpitiya,091-2291226,6.2791238,80.1429675
+19,Southern Province,Tangalle Police Division,Tangalle,047-2240223,6.02399265,80.79723789290335
+20,Northern Province,Kankasanthurai Police Division,Kankasanthurai,021-3202305,9.981448321617972,80.65621470526226
+21,Northern Province,Jaffna Police Division,Jaffna,021-3211257,9.806347955569509,80.04797653755344
+22,Northern Province,Vavuniya Police Division,Vavuniya,024-2222226,8.7544024,80.4985
+23,Northern Province,Kilinochchi Police Division,Kilinochchi,021-2285457,9.392542862553798,80.40882223755344
+24,Northern Province,Mannar Police Division,Mannar,023-2222227,9.005935854128934,79.9525836398779
+25,Northern Province,Mulathivu Police Division,Mullativu,021-2290119,9.269502798069283,80.82079272710008
+26,Eastern Province,Batticaloa Police Division,Batticaloa,065-2224423,7.71804015,81.69939429290056
+27,Eastern Province,Ampara Police Division,Ampara,063-2222223,7.296904424348462,81.67812699517926
+28,Eastern Province,Trincomalee Police Division,Trincomalee,026-2222227,8.576973964793225,81.24602607757193
+29,Eastern Province,Kantale Police Division,Kantale,026-2234223,8.356261386695452,81.00911219098684
+30,North Western Province,Kurunagala Police Division,Kurunegala,037-2222226,7.4858064,80.3641254
+31,North Western Province,Kuliyapitiya Police Division,Kuliyapitiya,037-2281223,7.471098317189056,80.02422000606853
+32,North Western Province,Nikaweratiya Police Division,Nikaweratiya,037-2260361,7.743130160214946,80.12170243767065
+33,North Western Province,Puttalam Police Division,Puttalam,032-2265422,8.04788899966124,79.86737838074805
+34,North Western Province,Chilaw Police Division,Chilaw,032-2222221,7.581332274877592,79.78774637156324
+35,North Central Province,Anuradhapura Police Division,Anuradapura,025-2222229,8.356682154695067,80.41240085136653
+36,North Central Province,Polonnaruwa Police Division,Polonnaruwa,027-2222226,7.939264211085354,81.00096817988178
+37,Uva Province,Badulla Police Division,Badulla,055-2222226,6.9912846,81.0553016
+38,Uva Province,Bandarawela Police Division,Bandarawela,057-2222226,6.8313213,80.9867464
+39,Uva Province,Monaragala Police Division,Monaragala,055-2276223,6.870063158388342,81.34896410686676
+40,Sabaragamuwa Province,Ratnapura Police Division,Ratnapura,045-2222897,6.6795711,80.4023489562011
+41,Sabaragamuwa Province,Embilipitiya Police Division,Godakawela,045-2240323,6.502477046687821,80.65650997512742
+42,Sabaragamuwa Province,Kagalle Police Division,Kegalle,035-2222226,7.25540115,80.35410149797059
+43,Sabaragamuwa Province,Seethawakapura Police Division,Awissawella,036-2222380,6.947703575861768,80.21665541612097

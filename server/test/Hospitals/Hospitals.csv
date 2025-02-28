@@ -1,0 +1,73 @@
+id,District,Hospital,Contact ,Latitude,Longitude
+0,Ampara, Ampara General Hospital,0632 222 261,7.29895,81.6892025
+1,Ampara,Kalmunai Base Hospital,0672 229 261,7.42059273,81.82244726
+2,Ampara,Sammanthurai Base Hospital,0672 260 261,7.36826345,81.81293689
+3,Anuradhapura,Anuradhapura Teaching Hospital,0252 222 261,8.32561175,80.41344383
+4,Anuradhapura,Rajarata Hospital,0255 670 580,8.368739223,80.50762997
+5,Anuradhapura,"District General Hospital, Hingurakgoda",0272 246 261,8.046397492,80.96458568
+6,Badulla,Badulla General Hospital,0552 222 261,6.990535672,81.05223129
+7,Badulla,Diyathalawa Base Hospital,0572 229 060,6.805717954,80.95742138
+8,Badulla, Mahiyangana Base Hospital,0554 936 722,7.323019568,80.99345782
+9,Batticaloa,Batticaloa Teaching Hospital,0652 222 261,7.70747265,81.69076654
+10,Batticaloa, Batticaloa Base Hospital,0652 222 262,7.755167931,81.68238564
+11,Batticaloa,Eravur Base Hospital,0652 240 497,7.78304555,81.60615171
+12,Colombo,National Hospital of Sri Lanka,0112 691 111,6.91832755,79.86836538
+13,Colombo,Colombo South Teaching Hospital (Kalubowila Hospital),0112 832 950,6.868097007,79.87825993
+14,Colombo,Colombo North Teaching Hospital (Ragama Hospital),0112 959 262,7.02968705,79.92501145
+15,Galle,Karapitiya Teaching Hospital,0912 232 267,6.0659086,80.22616978
+16,Galle,Mahamodara Teaching Hospital,0912 222 261,6.03880505,80.20698585
+17,Galle,Balapitiya Base Hospital,0912 258 261,6.260395,80.03839742
+18,Gampaha,"District General Hospital, Gampaha",0332 222 261,7.091516104,80.00184708
+19,Gampaha,"District General Hospital, Negombo",0312 222 261,7.212885789,79.8492577
+20,Gampaha,Wathupitiwala Base Hospital,0332 280 261,7.1240737,80.10909634
+21,Hambantota,Hambantota General Hospital,0472 256 403,6.1271953,81.1224549
+22,Hambantota,Tissamaharama Base Hospital,0472 237 261,6.285386583,81.2694712
+23,Hambantota,Tangalle Base Hospital,0472 240 261,6.022644826,80.79746206
+24,Jaffna,Jaffna Teaching Hospital,0212 223 348,9.6664323,80.0127075
+25,Jaffna,Point Pedro Base Hospital,0212 263 261,9.8053017,80.22407711
+26,Jaffna,Chavakachcheri Base Hospital,0213 215 429,9.6616371,80.1669594
+27, Kalutara,Nagoda General Hospital,0342 222 261,6.5631981,79.98494025
+28, Kalutara,Panadura Base Hospital,0382 232 261,6.72183418,79.90817475
+29, Kalutara, Horana Base Hospital,0342 262 379,6.7112792,80.06725996
+30,Kandy,Kandy Teaching Hospital,0812 222 261,7.2865394,80.6321328
+31,Kandy,"District General Hospital, Peradeniya",0812 388 001,7.266496875,80.59810471
+32,Kandy,"District General Hospital, Nawalapitiya",0542 222 261,7.0528085,80.5352495
+33,Kegalle,Kegalle General Hospital,0352 222 261,7.248342128,80.34514601
+34,Kegalle," District General Hospital, Mawanella",0352 247 835,7.253663613,80.44568656
+35,Kegalle,Warakapola Base Hospital,0352 267 261,7.22544472,80.19695171
+36,Kilinochchi,Kilinochchi General Hospital,0212 285 329,9.372881991,80.41261182
+37,Kilinochchi,Poonakary Base Hospital,0212 060 854,9.507740812,80.20799517
+38,Kilinochchi,Mankulam Base Hospital,0 212 060 006,9.1280175,80.4470247
+39,Kurunegala,Kurunegala Teaching Hospital,0372 222 261,7.4780594,80.35997335
+40,Kurunegala," District General Hospital, Kuliyapitiya",0372 281 261,7.471876878,80.04543224
+41,Kurunegala,"District General Hospital, Nikaweratiya",0372 260 261,7.747903145,80.11543362
+42,Mannar,Mannar District General Hospital,0232 222 261,8.98185785,79.90573231
+43,Mannar,Adampan Base Hospital,02332 223 257,8.943230575,79.99769484
+44,Mannar,Nanattan Base Hospital,02334 225 267,8.839854879,79.9785097
+45,Matale,Matale District General Hospital,0662 222 261,7.461231075,80.62564661
+46,Matale,Dambulla Base Hospital,0662 284 761,7.872128489,80.65042418
+47,Matale,Rattota Base Hospital,0662 255 261,7.518503151,80.67715501
+48,Matara,Matara General Hospital,0412 222 261,5.94789735,80.54976201
+49,Matara,"District General Hospital, Akuressa",0412 283 261,6.08741899,80.47317998
+50,Matara,"District General Hospital, Kamburupitiya",0412 292 261,6.096273492,80.56456408
+51, Monaragala,Monaragala District General Hospital,0552 276 261,6.891595355,81.34248174
+52, Monaragala,"District General Hospital, Badalkumbura",0552 250 261,6.900185528,81.22871927
+53, Monaragala,Bibile Base Hospital,0553 555 861,7.164208002,81.22564104
+54,Mullaitivu,Mullaitivu Base Hospital,0243 201 498,9.275270765,80.77348246
+55,Mullaitivu,Maritimepattu Base Hospital, 0212290001,9.237319315,80.80232157
+56,Mullaitivu,Puthukudiyiruppu Base Hospital,0212 061 661,9.3151784,80.70466067
+57,Nuwara Eliya,Nuwara Eliya District General Hospital,0522 222 261,6.974406734,80.7813499
+58,Nuwara Eliya,"District General Hospital, Hatton",0 522 223 830,6.857130684,80.60591775
+59,Nuwara Eliya,"District General Hospital, Talawakelle",0524 344 455,6.974489349,80.6713577
+60,Puttalam,Puttalam Base Hospital,0322 265 261,8.0277811,79.8388358
+61,Puttalam,"District General Hospital, Chilaw",0322 223 261,7.571922,79.79684522
+62,Puttalam,"District General Hospital, Wennappuwa",0312 253 008,7.344700681,79.84376042
+63,Ratnapura,Ratnapura General Hospital,0452 222 261,6.6878691,80.39255632
+64,Ratnapura,"District General Hospital, Embilipitiya",0472 230 261,6.32636435,80.84186627
+65,Ratnapura,"District General Hospital, Balangoda",0452 287 261,6.663906886,80.71038366
+66,Trincomalee, Trincomalee District General Hospital,0262 222 261,8.565417833,81.24152648
+67,Trincomalee,"District General Hospital, Kantale",0262 234 261,8.366869191,81.00482444
+68,Trincomalee," District General Hospital, Muttur",262238261,8.454761663,81.26244927
+69,Vavuniya,Vavuniya General Hospital,0242 222 761,8.7611916,80.49978636
+70,Vavuniya,"District General Hospital, Omanthai",0242 052 724,8.864832839,80.50209804
+71,Vavuniya,"District General Hospital, Vavuniya South",0242 222 762,8.765848381,80.49799126

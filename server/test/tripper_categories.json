@@ -1,0 +1,39 @@
+{
+    "Beach paradise": {
+        "Unawatuna Beach": [6.010015445884165, 80.2484862343673, "Galle"], 
+        "Mirissa Beach": [5.9451878353779035, 80.45901277737829, "Matara"], 
+        "Hiriketiya Beach": [5.963253850702005, 80.70698258438195, "Matara"], 
+        "Kirinda Beach": [6.2162723719161, 81.3368923663555, "Hambantota"], 
+        "Mount Lavinia Beach": [6.8387084158648275, 79.86308003937522, "Colombo"], 
+        "Kalmunai Beach": [7.436507748728042, 81.8232519951986, "Ampara"]
+    },
+        "Cultural adventure": {
+            "Kelaniya Raja Maha Viharaya": [6.952060292127196, 79.91858781239226, "Colombo"], 
+            "St. Anthony's Shrine, Kochchikade": [6.9468922641928135, 79.8563882040696, "Colombo"], 
+            "Asgiriya Raja Maha Viharaya": [7.110340213,79.99063196, "Asgiriya"], 
+            "The Shrine of Our Lady of Matara": [5.94325025,80.55190761, "Matara"], 
+            "Wewurukannala Buduraja Maha Viharaya": [5.976944546,80.70024126, "Matara"], 
+            "Muthiyangana Raja Maha Vihara": [6.984308918,81.06238607, "Badulla"], 
+            "Kalutara Bodhiya": [6.58698275,79.96008194, "Kalutara"],
+            "Batadombalena": [6.800209194,80.36753061, "Rathnapura"], 
+            "Dalada maligawa Kurunegala": [7.490837615,80.36930457, "Kurunegala"], 
+            "Sri Muththu Mari Amman Kovil": [7.0178517,80.67314276, "Nuwara Eliya"]
+    },
+	"Nature and wildlife": {
+        "Dehiwala Zoological Gardens": [6.85717375,79.87420323, "Colombo"], 
+        "Gampaha Botanical Gardens": [7.030591023,80.22711145, "Gampaha"], 
+        "Rumassala Sanctuary": [6.018324775,80.24283062, "Galle"], 
+        "Nilwala Crocodile Safari": [5.947475373,80.55490897, "Matara"], 
+        "Waterfalls - Badulla": [6.733071,81.031448, "Badulla"], 
+        "Waterfalls - Nuwara Eliya": [6.952051624,80.63702791, "Nuwara Eliya"], 
+        "Waterfalls - Rathnapura": [6.70515687,80.40201071, "Rathnapura"], 
+        "Riverston": [7.5237457,80.7370801, "Matale"], 
+        "Bundala National Park": [6.20985505,81.22517718, "Hambantota"]
+    },
+    "Urban exploration": {
+        "Colombo": [6.925921398554256, 79.8644402993157, "Colombo"], 
+        "Galle": [6.033008334714264, 80.21436247900299, "Galle"], 
+        "Kurunegala": [7.482150240956719, 80.36001076560979, "Kurunegala"], 
+        "Nuwara Eliya": [6.9494900243574955, 80.78935717429235, "Nuwara Eliya"]
+    }
+}

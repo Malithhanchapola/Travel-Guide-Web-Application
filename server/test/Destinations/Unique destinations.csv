@@ -1,0 +1,235 @@
+id,Destination,District,Destination Type,Rating,Latitude,Longitude
+0,Attidiya Bird Sanctuary,Colombo,Nature and wildlife,4.3,6.8344965,79.89256075
+1,Beddagana Wetland Park,Colombo,Nature and wildlife,4.7,6.89044865,79.90909358
+2,Bellagio Colombo,Colombo,Urban exploration,4.4,6.9049522,79.8536861
+3,Casino Marina Colombo,Colombo,Urban exploration,3.7,6.9067605,79.850124
+4,Colombo National Museum,Colombo,Urban exploration,4.5,6.91041675,79.86091939
+5,Colombo Port Maritime Museum,Colombo,Urban exploration,4.0,6.938858848,79.8424317
+6,Colombo Fort Old Lighthouse & Clock Tower,Colombo,Urban exploration,4.2,6.9347281,79.842799
+7,Crow Island Beach Park,Colombo,Urban exploration,4.4,6.97129845,79.86890573
+8,Dehiwala Zoological Gardens,Colombo,Nature and wildlife,4.4,6.85717375,79.87420323
+9,Diyatha Uyana,Colombo,Nature and wildlife,4.9,6.9037257,79.91114655
+10,Dutch Museum,Colombo,Urban exploration,4.1,6.936319086,79.85159608
+11,Excel World Entertainment Park,Colombo,Urban exploration,4.4,6.922547349,79.86131165
+12,Galle Face Green,Colombo,Urban exploration,4.8,6.924684,79.84455734
+13,Galle Face Park & Beach,Colombo,Urban exploration,4.7,6.926659069,79.84559785
+14,Gangarama Sima Malaka,Colombo,Urban exploration,4.6,6.917068507,79.85460997
+15,Gangaramaya Temple,Colombo,Urban exploration,4.6,6.7925591,79.9032207
+16,Hamilton Canal Park,Colombo,Urban exploration,4.1,6.982648365,79.8757821
+17,Independence Square,Colombo,Urban exploration,4.7,6.9041807,79.8677752
+18,Kathiresan Pillayar Kovil | கதிரேசன் பிள்ளையார் கோயில்,Colombo,Urban exploration,4.6,6.884062998,79.85926723
+19,"Kayman's Gate - Dutch Bell Tower, කයිමන් දොරකඩ",Colombo,Urban exploration,3.9,6.938753979,79.85401432
+20,Kelaniya Raja Maha Viharaya,Colombo,Cultural adventure,4.5,6.9515023,79.91867673
+21,Mount Lavinia Beach,Colombo,Beach paradise,4.7,6.838575266,79.86426022
+22,National Art Gallery,Colombo,Urban exploration,4.5,6.9114097,79.861969
+23,Old Parliament Building,Colombo,Urban exploration,4.3,6.931274582,79.84397374
+24,Pettah Floating Market,Colombo,Urban exploration,4.1,6.93256185,79.85553709
+25,Queen Viharamahadevi Statue,Colombo,Urban exploration,3.8,6.914153935,79.86422252
+26,Sambodhi Pagoda Temple,Colombo,Cultural adventure,4.5,6.938315,79.8419981
+27,Sathutu Uyana,Colombo,Urban exploration,4.2,6.9147684,79.8602968
+28,Sri Kailawasanatan Swami Temple,Colombo,Cultural adventure,4.4,6.942669826,79.85549605
+29,Sri Lanka Planetarium,Colombo,Urban exploration,4.2,6.900787734,79.86397573
+30,"St. Anthony's Shrine, Kochchikade",Colombo,Cultural adventure,4.4,6.947048876,79.85713276
+31,St. Lucia's Cathedral,Colombo,Cultural adventure,4.5,6.948311526,79.86538184
+32,Thalangama Lake,Colombo,Nature and wildlife,4.5,6.8863623,79.9505058
+33,Torington park,Colombo,Urban exploration,4.6,6.903513691,79.86777408
+34,Viharamahadevi Park,Colombo,Urban exploration,4.6,6.9148992,79.8613636
+35,Asgiriya Raja Maha Viharaya (අස්ගිරිය රජ මහා විහාරය) Gampaha,Gampaha,Cultural adventure,4.4,7.110340213,79.99063196
+36,Bopagama Ella,Gampaha,Nature and wildlife,4.4,7.073681903,80.1689891
+37,Gampaha Botanical Garden,Gampaha,Nature and wildlife,4.5,7.102205519,79.9872306
+38,Goraka Ella,Kegalle,Nature and wildlife,4.6,7.030591023,80.22711145
+39,Guruge Park,Gampaha,Nature and wildlife,4.1,7.0672982,79.9013432
+40,Horagolla National Park,Gampaha,Nature and wildlife,4.2,7.1399754,80.08469325
+41,Mayan Water Park,Gampaha,Urban exploration,4.3,7.069238686,79.90331951
+42,Rukmani Devi Park,Gampaha,Urban exploration,4.6,7.208758147,79.8467321
+43,New Saniro Dream Pradise,Gampaha,Urban exploration,4.2,7.169640763,80.0140404
+44,Udammita Ambalama,Gampaha,Cultural adventure,3.6,7.148270677,80.08133451
+45,Black Galle Fort - Zwart Bastion,Galle,Urban exploration,4.3,6.029276118,80.21974954
+46,Dutch Reformed Church,Galle,Cultural adventure,4.4,6.028194,80.21709968
+47,Galle Dutch Fort,Galle,Urban exploration,4.8,6.030568522,80.21499973
+48,Galle Fort Attractions and Jumpers Sri Lanka,Galle,Urban exploration,4.7,6.030584431,80.21549577
+49,Galle Fort Clock Tower,Galle,Urban exploration,4.7,6.030074145,80.21566965
+50,Historical Mansion Museum,Galle,Urban exploration,4.5,6.026689826,80.21961289
+51,Japanese Peace Pagoda - Rumassala,Galle,Cultural adventure,4.7,6.0158561,80.23790922
+52,"Jungle Beach, Unawatuna.",Galle,Beach paradise,4.5,6.0119744,80.2391711
+53,Lighthouse - Galle,Galle,Urban exploration,4.6,6.0245483,80.21937329
+54,Mahamodara Beach Park & Marine Walk,Galle,Beach paradise,4.6,6.040325335,80.20110826
+55,Maritime Museum,Galle,Urban exploration,4.2,6.028121019570138, 80.21827047191186
+56,"Meeran Mosque, Galle Fort.",Galle,Urban exploration,4.5,6.024776931,80.21953266
+57,National Museum Galle,Galle,Urban exploration,3.8,6.029136225,80.21852041
+58,Rumassala Sanctuary,Galle,Nature and wildlife,4.5,6.018324775,80.24283062
+59,Rumassala South Beach,Galle,Beach paradise,4.7,6.018873283,80.23537981
+60,Sri Sudharmalaya Buddhist Temple,Galle,Cultural adventure,4.5,6.027284722,80.21670657
+61,St. Mary's Cathedral,Galle,Cultural adventure,4.7,6.0358722,80.21265121
+62,Yatagala Raja Maha Viharaya,Galle,Cultural adventure,4.5,6.0250013,80.2610505
+63,Atha Mala Ella,Matara,Nature and wildlife,4.6,6.228523416,80.49957089
+64,Biso Ella Waterfall,Matara,Nature and wildlife,4.5,6.22944195,80.56668467
+65,Coconut Tree Hill,Matara,Beach paradise,4.6,5.9392522,80.4682756
+66,Dandeniya Wewa,Matara,Nature and wildlife,4.7,5.991613548,80.65445422
+67,Dondra Head,Matara,Beach paradise,4.5,5.922087139,80.59393769
+68,Hiriketiya Beach,Matara,Beach paradise,4.7,5.96276309,80.71114545
+69,Hummanaya Blow Hole,Hambantota,Beach paradise,4.5,5.9776154,80.7387267
+70,Kirala Kele Sanctuary,Matara,Nature and wildlife,4.6,5.976823722,80.53562588
+71,Madiha Beach,Matara,Beach paradise,4.7,5.93690605,80.51054808
+72,Matara Beach Park,Matara,Beach paradise,4.7,5.942489087,80.5556638
+73,Matara Bodhiya - මාතර බෝධිය (மாதாரா போ மரம்),Matara,Cultural adventure,4.5,5.948358534,80.54754819
+74,Matara Fort,Matara,Beach paradise,4.2,5.9482862,80.54865811
+75,Matara Paravi Duwa Beach,Matara,Nature and wildlife,4.5,5.942474388,80.55012455
+76,Mirissa Beach,Matara,Beach paradise,4.8,5.9435637,80.46129663
+77,Nilwala Crocodile Safari Matara,Matara,Nature and wildlife,4.5,5.947475373,80.55490897
+78,Old Dutch Market,Matara,Urban exploration,4.2,5.94786005,80.53508809
+79,පරෙවි දූව විහාරස්ථානය - Parewi Duwa Temple,Matara,Cultural adventure,4.5,5.941494916,80.54977
+80,Parrot Rock,Matara,Beach paradise,4.6,5.94161675,80.46225399
+81,Pasindu Snorkeling Centre,Matara,Beach paradise,4.9,5.936638074,80.51674588
+82,Raja & the Whales,Matara,Beach paradise,4.7,5.9470648,80.4516351
+83,Sk Town Beach,Matara,Beach paradise,4.7,5.940394647,80.57510662
+84,Snake Farm Weligama (Traditional Farm),Matara,Nature and wildlife,4.6,6.014337262,80.47460536
+85,Star Fort Matara,Matara,Urban exploration,4.3,5.9482862,80.54865811
+86,The Palm Rope Swing,Galle,Beach paradise,3.6,6.001537796,80.26090846
+87,The Shrine of Our Lady of Matara,Matara,Cultural adventure,4.6,5.94325025,80.55190761
+88,Turtle Bay Activity Center,Matara,Beach paradise,4.6,5.935943349,80.52304893
+89,Turtle Point Bathigama Dickwella,Matara,Beach paradise,4.9,5.959355198,80.68323513
+90,Weherahena Poorwarama Rajamaha Viharaya වෙහෙරහේන පූර්වාරාම රජමහා විහාරය.,Matara,Cultural adventure,4.5,5.953299439,80.57661638
+91,Weligama Beach (surf and stay),Matara,Beach paradise,4.6,5.972751205,80.43665975
+92,Wewurukannala Buduraja Maha Viharaya,Matara,Cultural adventure,3.7,5.976944546,80.70024126
+93,Aradunu Falls,Badulla,Nature and wildlife,4.3,6.9546584,81.1527847
+94,Badulla Alugolla Samadhi Buddha Statue,Badulla,Cultural adventure,4.7,7.0041552,81.0484574
+95,Badulla Dutch Fort,Badulla,Urban exploration,4.1,6.991345704,81.05502005
+96,Badulla Katharagama Devalaya,Badulla,Cultural adventure,4.3,6.987295862,81.0584245
+97,Blackpool,Nuwara Eliya,Nature and wildlife,4.4,6.9436724,80.7739469
+98,Boburu Fall Tracking,Nuwara Eliya,Nature and wildlife,4.8,6.949973225,80.83101071
+99,Bogoda Raja Maha Viharaya,Badulla,Cultural adventure,4.4,7.008343118,80.99686127
+100,Bomburu Ella Waterfall,Nuwara Eliya,Nature and wildlife,4.6,6.9470599,80.8307743
+101,Diyaluma Falls,Badulla,Nature and wildlife,4.6,6.733071,81.031448
+102,Dunhinda Waterfall Access Point,Badulla,Nature and wildlife,4.4,7.0177174,81.06450964
+103,Dunhinda Waterfall,Badulla,Nature and wildlife,4.6,7.0169435,81.063492
+104,Kombukara Nature Pool and Secret Waterfall for Open Bath by Ella Yoga Hub Outdoor yoga,Badulla,Nature and wildlife,4.5,6.868669655,81.10072261
+105,Kurundu Oya Ella Falls | කුරුඳු ඔය ඇල්ල,Nuwara Eliya,Nature and wildlife,4.2,7.080634664,80.85135126
+106,Lanka Ella - Waterfall,Badulla,Nature and wildlife,4.3,6.77344063,80.82568915
+107,Muthiyangana Raja Maha Vihara,Badulla,Cultural adventure,4.3,6.984308918,81.06238607
+108,Narangala Hill,Badulla,Nature and wildlife,4.4,7.039254809,81.02307167
+109,Narangala Mountain( Keenakela),Badulla,Nature and wildlife,4.7,7.0369291,81.0084012
+110,Pallewela Waterfall,Badulla,Nature and wildlife,4.4,6.8288186,81.0814816
+111,Pareiyan Ella Falls | පරෙයියන් ඇල්ල,Monaragala,Nature and wildlife,4.3,6.8499267,81.2373371
+112,Porawagala Viewpoint,Badulla,Nature and wildlife,4.4,6.830250296,81.01328411
+113,Prabhawa Mountain Day Viewpoint,Badulla,Nature and wildlife,4.4,6.774327,80.9684626
+114,Ravan Ella Waterfall,Badulla,Nature and wildlife,4.2,6.959408071,80.85557833
+115,Ravana Waterfall,Badulla,Nature and wildlife,4.4,6.8718498,81.0455451
+116,Ravana's Cave,Badulla,Nature and wildlife,4.0,6.850805,81.0523311
+117,Upper Rawana,Badulla,Nature and wildlife,4.1,6.8372322,81.0520032
+118,Uva Halpewatte Tea Factory Tour,Badulla,Nature and wildlife,4.6,6.889683364,81.03543972
+119,Richmond Castle,Kalutara,Urban exploration,4.6,6.60169075,79.97512176
+120,kalido beach kalutara,Kalutara,Beach paradise,4.6,6.588084009,79.95579613
+121,Kalutara Bodhiya (Ihala Maluwa),Kalutara,Cultural adventure,4.6,6.58698275,79.96008194
+122,Barberyn Lighthouse,Kalutara,Nature and wildlife,4.6,6.46301358,79.97104593
+123,"Christ Church Warleigh, Dickoya",Nuwara Eliya,Cultural adventure,4.4,6.863518229,80.59571872
+124,Galpoththa (Natural Water Slide),Kandy,Nature and wildlife,4.7,7.031639687,80.53308825
+125,Gartmore Falls,Nuwara Eliya,Nature and wildlife,4.5,6.7808437,80.5592857
+126,Devon Water Fall View Point,Nuwara Eliya,Nature and wildlife,4.4,6.952051624,80.63702791
+127,Devon Falls,Nuwara Eliya,Nature and wildlife,4.6,6.9515033,80.6301127
+128,Glassaugh Falls,Nuwara Eliya,Nature and wildlife,3.8,6.946753326,80.73826587
+129,Nuwara Eliya Sripada View Point,Nuwara Eliya,Nature and wildlife,4.6,6.900827243,80.59253809
+130,Horton Plains National Park,Nuwara Eliya,Nature and wildlife,4.6,6.80292545,80.79441262
+131,Kadiyanlena Eco Resort,Kandy,Nature and wildlife,4.7,7.012680244,80.58748318
+132,Kolapathana Waterfall,Nuwara Eliya,Nature and wildlife,4.5,7.023745401,80.78177151
+133,Laxapana Falls,Nuwara Eliya,Nature and wildlife,4.6,6.8273972,80.5329798
+134,Lover's Leap Waterfall,Nuwara Eliya,Nature and wildlife,4.4,6.978456814,80.7877255
+135,"Mohini Falls (මෝහිනී ඇල්ල), Maskeliya.",Nuwara Eliya,Nature and wildlife,4.2,6.826978554,80.53405522
+136,Moon Plains,Nuwara Eliya,Nature and wildlife,4.5,6.9513205,80.80395008
+137,"Moray Falls, Nuwara Eliya",Nuwara Eliya,Nature and wildlife,4.8,6.799332803,80.54427278
+138,Mount Vernon Waterfall,Nuwara Eliya,Nature and wildlife,4.1,6.958799723,80.62521584
+139,Shanthipura View Point,Nuwara Eliya,Nature and wildlife,4.0,6.976529615,80.75484399
+140,Single Tree Hill,Nuwara Eliya,Nature and wildlife,4.4,6.9577489,80.762227
+141,Swarnagiri Maha Viharaya / Single Tree Temple,Nuwara Eliya,Cultural adventure,4.5,6.9549498,80.76640246
+142,Upper Kothmale Reservoir View Point,Nuwara Eliya,Nature and wildlife,4.8,6.948132125,80.66074066
+143,Windy Corner Falls,Nuwara Eliya,Nature and wildlife,4.6,6.950026175,80.77271085
+144,Batadombalena,Rathnapura,Cultural adventure,4.2,6.800209194,80.36753061
+145,Bopath Falls,Rathnapura,Nature and wildlife,4.6,6.8006004,80.3666596
+146,Dehena Waterfall,Rathnapura,Nature and wildlife,4.6,6.714997477,80.53103577
+147,Delgamuwa Rajamaha Viharaya,Rathnapura,Cultural adventure,3.7,6.775705578,80.35637916
+148,"Diva Guhawa දිවා ගුහාව (Batathotalena බටතොට ලෙන), Kuruwita Erathna Road",Rathnapura,Cultural adventure,4.4,6.8298699,80.37435289
+149,Dumpus Ella,Rathnapura,Nature and wildlife,3.6,6.766025655,80.42532355
+150,Katugas Ella Waterfall,Rathnapura,Nature and wildlife,4.5,6.70515687,80.40201071
+151,Kirindi Ella Waterfall,Rathnapura,Nature and wildlife,4.6,6.6422499,80.5646175
+152,Madanagiri Ella (Mohini Ella),Rathnapura,Nature and wildlife,4.2,6.715016053,80.54029937
+153,Mapalana Ella Falls,Rathnapura,Nature and wildlife,4.6,6.774655906,80.46258549
+154,Marakkala Ella Falls (Kaluwala Ella),Rathnapura,Nature and wildlife,4.6,6.64710709,80.53005457
+155,Minee Ella,Rathnapura,Nature and wildlife,4.8,6.66467853,80.28666826
+156,Pothgul Vihara Temple,Rathnapura,Cultural adventure,3.7,6.684399,80.3606614
+157,Rajanawa Waterfall,Rathnapura,Nature and wildlife,4.5,6.654915559,80.44223884
+158,Rathnapura National Museum,Rathnapura,Urban exploration,4.1,6.684489555,80.40038029
+159,Sri Maha Viharaya,Colombo,Cultural adventure,4.8,6.8545929,79.8822485
+160,Sri Sumana Saman Devalaya,Rathnapura,Cultural adventure,4.5,6.690556363,80.38076234
+161,Thepulangoda Waterfall,Rathnapura,Nature and wildlife,4.7,6.7283842,80.3938741
+162,To Sripada,Rathnapura,Nature and wildlife,4.0,6.787571131,80.45597307
+163,Waranagala waterfall,Rathnapura,Nature and wildlife,4.8,6.824605572,80.4465496
+164,Maruthamunai Beach (மருதமுனை கடற்கரை),Ampara,Beach paradise,4.7,7.436523714,81.82288722
+165,Pandiruppu,Ampara,Beach paradise,4.6,7.4263926,81.8169319
+166,Sea Corner,Ampara,Beach paradise,4.7,7.423858855,81.83147267
+167,Arankele Archaeological site,Kurunegala,Nature and wildlife,4.2,7.644902119,80.41752766
+168,Athkanda Raja Maha Viharaya,Kurunegala,Cultural adventure,4.3,7.482942106,80.36950976
+169,Athugala Viharaya,Kurunegala,Cultural adventure,4.7,7.484603116,80.37119343
+170,Cathedral Church of Christ the King,Kurunegala,Cultural adventure,4.7,7.48646935,80.36790139
+171,Children's Park - Lakeround,Kurunegala,Nature and wildlife,4.5,7.496718487,80.35755517
+172,"Dalada maligawa, Kurunegala kingdom",Kurunegala,Cultural adventure,3.5,7.490837615,80.36930457
+173,Deduru oya dam,Kurunegala,Nature and wildlife,4.8,7.7173014,80.27349439
+174,Deduru Oya Reservoir Park,Kurunegala,Nature and wildlife,4.8,7.720060784,80.27728401
+175,Dolukanda Rajamaha Viharaya,Kurunegala,Cultural adventure,4.3,7.61216274,80.40265379
+176,Galhinna Big Rock,Kandy,Nature and wildlife,4.5,7.418575322,80.56015847
+177,Hulangala Mini World's End Entrance,Matale,Nature and wildlife,4.3,7.587001297,80.58427927
+178,Ibbagala Rajamaha Viharaya,Kurunegala,Cultural adventure,4.1,7.487780952,80.37182589
+179,Kurunegala Clock Tower,Kurunegala,Urban exploration,3.8,7.487001542,80.36639374
+180,Kurunegala lake jogging track,Kurunegala,Urban exploration,4.7,7.495380402,80.36141724
+181,Kurunegala Camp Site,Kurunegala,Urban exploration,4.3,7.459231814,80.36534979
+182,Lake Round Kurunegala,Kurunegala,Nature and wildlife,4.7,7.496601013,80.36567823
+183,"Maraluwawa Rajamaha Viharaya, කුරුනෑගල මරළුවාව රජමහා විහාරය.",Kurunegala,Cultural adventure,4.6,7.514172589,80.37158846
+184,Pangala,Kurunegala,Nature and wildlife,4.1,7.47948207,80.48352098
+185,Rambadagalla Viharaya,Kurunegala,Cultural adventure,4.3,7.514679905,80.50422977
+186,Siri Gautama Sambuddharaja Maligawa | ???? ???? ??????????? ???????,Kurunegala,Cultural adventure,4.5,7.34152075,80.25380687
+187,Wadakada Ella Falls - වදාකඩ ඇල්ල,Kurunegala,Nature and wildlife,4.1,7.396333548,80.2659964
+188,Wewala Waterfall,Kurunegala,Nature and wildlife,4.0,7.383166258,80.33071968
+189,Yakdessagala Mountain,Kurunegala,Nature and wildlife,4.4,7.58322432,80.32403404
+190,Yapahuwa Rock Fortress,Kurunegala,Cultural adventure,4.3,7.818035451,80.31244642
+191,Balakaduwa Ella,Matale,Nature and wildlife,4.1,7.425159225,80.61176148
+192,Bambarakiri Ella,Matale,Nature and wildlife,4.5,7.4955285,80.6990816
+193,Dumbara Ella Waterfall,Matale,Nature and wildlife,4.2,7.470309421,80.79020422
+194,Hulangala Mini World's End Viewpoint,Matale,Nature and wildlife,4.3,7.592825808,80.57027815
+195,Hunnasgiriya Water Fall,Matale,Nature and wildlife,4.4,7.401944132,80.69077378
+196,Jodu Ella Water Falls,Matale,Nature and wildlife,4.4,7.4004888,80.775762
+197,Kande Sudu Ella Waterfall,Matale,Nature and wildlife,4.3,7.509496713,80.72006976
+198,Kiddies Paradise Children's Park,Matale,Nature and wildlife,4.4,7.464834039,80.62074692
+199,Lucky Land Spice Garden,Matale,Nature and wildlife,4.1,7.510233965,80.62403443
+200,Matale Town - View Point,Matale,Nature and wildlife,4.1,7.486090067,80.6095463
+201,Nalanda Gedige (Central point of Sri Lanka),Matale,Cultural adventure,3.8,7.66974285,80.64592602
+202,National Spice Garden of Sri Lanka,Matale,Nature and wildlife,4.3,7.453049601,80.64206013
+203,Padiwita Ambalama,Matale,Cultural adventure,4.0,7.449867646,80.61058937
+204,"Pitawala Pathana, Riverston",Matale,Nature and wildlife,4.6,7.5477052,80.7532093
+205,Puwakpitiya Oya,Matale,Nature and wildlife,4.3,7.579056244,80.74720774
+206,Rahas Ella Waterfall- රහස් ඇල්ල,Matale,Nature and wildlife,4.5,7.34769582,80.69202763
+207,Rangala Natural Pool,Matale,Nature and wildlife,4.6,7.3694319,80.7821916
+208,Riverston,Matale,Nature and wildlife,4.5,7.5237457,80.7370801
+209,Sembuwatta Lake,Matale,Nature and wildlife,4.4,7.4402341,80.7171018
+210,Sera Ella Water Fall,Matale,Nature and wildlife,4.4,7.588358541,80.75629471
+211,Sri Muththu Mari Amman Kovil,Nuwara Eliya,Cultural adventure,4.2,7.0178517,80.67314276
+212,"Themali Kaan Waterfall, Elkaduwa",Matale,Nature and wildlife,4.5,7.395095733,80.69309513
+213,V.T. Nanayakkara Park,Matale,Nature and wildlife,4.0,7.463205426,80.62230625
+214,Abarana Ella,Hambantota,Nature and wildlife,3.8,6.1875733,80.9702458
+215,Bataatha Agro Technology and Tourism Park,Hambantota,Nature and wildlife,4.6,6.102728595,80.90653422
+216,Birds Park / Birds Research Center Hambantota,Hambantota,Nature and wildlife,4.5,6.2166468,81.090144
+217,Bundala National Park,Hambantota,Nature and wildlife,4.5,6.20985505,81.22517718
+218,Bundala Safari with Srimal,Hambantota,Nature and wildlife,4.8,6.202632322,81.19673466
+219,"Dry Zone Botanic Gardens, Hambantota",Hambantota,Nature and wildlife,4.5,6.153426168,81.06723663
+220,Flamingos Yala safari service,Hambantota,Nature and wildlife,3.6,6.297093242,81.23723635
+221,Hambantota Beach Children Park,Hambantota,Beach paradise,4.4,6.128137212,81.12844814
+222,Hambantota Beach,Hambantota,Beach paradise,4.5,6.128526576,81.13102307
+223,Hambantota Port View,Hambantota,Beach paradise,3.0,6.127888382,81.09452985
+224,Kirinda Beach,Hambantota,Beach paradise,4.5,6.2102227,81.3313048
+225,Lagoon boat tour and Bird watching with the beautiful nature (nature lover boat tours) ️,Hambantota,Nature and wildlife,4.7,6.065042132,80.8882068
+226,Lighthouse - Hambantota,Hambantota,Beach paradise,4.2,6.1820568,81.481378
+227,Madunagala Hot Water Spring,Hambantota,Nature and wildlife,4.5,6.2536639,80.982025
+228,Magampura Ruhunu Heritage Museum,Hambantota,Cultural adventure,4.7,6.122589413,81.12781821
+229,Mirijjawila Botanical Gardens - South Gate,Hambantota,Nature and wildlife,3.8,6.141107175,81.06763308
+230,Rekawa Turtle Beach,Hambantota,Beach paradise,4.4,6.04572731,80.85597157
+231,Ridiyagama Safari Park,Hambantota,Nature and wildlife,4.5,6.2411634,80.97685245
+232,Wirawila Tissa Sanctuary,Hambantota,Nature and wildlife,4.4,6.300175957,81.25065446
+233,Yatala Dalada Wehera,Hambantota,Cultural adventure,3.3,6.285853133,81.27652801
